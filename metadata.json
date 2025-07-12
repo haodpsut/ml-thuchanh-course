@@ -1,0 +1,5 @@
+{
+  "name": "Interactive ML Lab",
+  "description": "An interactive web app for learning and practicing fundamental Machine Learning concepts, enhanced with AI-powered explanations from Gemini or OpenRouter.",
+  "requestFramePermissions": []
+}
